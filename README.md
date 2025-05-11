@@ -13,7 +13,7 @@ Aug 2023 - May 2025 GPA: 3.8
 - Collaborating and consulting with various institutions and specialties to foster research initiatives that directly impact patient care.
 - Integrating and optimizing software platforms to streamline data management, enabling more efficient and accurate clinical decision-making.
 - Providing statistical expertise to ensure high-quality data analysis, supporting evidence-based approaches to patient treatment and care.
-- 
+  
 <ins>Clinical Research Intern - Aug 2024 - Mar 2025</ins>
 - Collected, cleaned, and analyzed clinical research data on Prader-Willi syndrome using SPSS, Excel, and REDCap.
 - Led data management and statistical analysis for a study on swallow studies in Prader-Willi syndrome patients, contributing to a forthcoming publication.
