@@ -5,15 +5,11 @@
 
 ### Education
 - Bioinformatics and Computational Biology, MS; GPA: 3.8
-  
-  Data Science Certificate
-  
-    Aug 2023 - May 2025
+  - Data Science Certificate
+    - Aug 2023 - May 2025
 - Biochemistry, BS; GPA: 3.8
-  
-  Minor in Spanish
-  
-    Aug 2015 - May 2019 
+  - Minor in Spanish
+    - Aug 2015 - May 2019 
 
 ### Work Experience
 **Cook Children's Health Care System**
@@ -60,3 +56,5 @@
 When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
 
 Me gusta practicar mi español y ver muchos cortometrajes en LingoPie. También me encanta encontrar hispanohablantes con quienes practicar español. (Es muy divertido!)
+
+If you're curious to learn more about me, please feel free to reach out through my [LinkedIn!](https://www.linkedin.com/in/andrea-fagerman-817317193)
