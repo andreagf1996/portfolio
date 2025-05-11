@@ -1,8 +1,8 @@
 # Data Scientist and Bioinformatician
 
 ### Education
-- Bioinformatics and Computational Biology, MS | Data Science Certificate | Aug 2023 - May 2025 | GPA: 3.8
-- Biochemistry, BS | Minor in Spanish | Aug 2015 - May 2019 | GPA: 3.8
+Bioinformatics and Computational Biology, MS | Data Science Certificate | Aug 2023 - May 2025 | GPA: 3.8
+Biochemistry, BS | Minor in Spanish | Aug 2015 - May 2019 | GPA: 3.8
 
 ### Work Experience
 **Cook Children's Health Care System**
@@ -44,7 +44,7 @@
 ### Projects
 - add in later
 
-### A little about me...###
+### A little about me... 
 When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
 
-También me encanta practicar mi español y ver muchos cortometrajes en LingoPie. También me encanta encontrar hispanohablantes con quienes practicar español. (Es muy divertido!)
+Me gusta practicar mi español y ver muchos cortometrajes en LingoPie. También me encanta encontrar hispanohablantes con quienes practicar español. (Es muy divertido!)
