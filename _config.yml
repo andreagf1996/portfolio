@@ -1,5 +1,6 @@
 title: Andrea Fagerman
 logo: headshot.png
+description: "Howdy, ya'll! As a former teacher and recent graduate, I am a lover of all things learning."
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme 
