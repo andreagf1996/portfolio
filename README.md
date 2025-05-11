@@ -7,11 +7,13 @@ Aug 2023 - May 2025 GPA: 3.8
 
 ### Work Experience
 **Cook Children's Health Care System**
+
 <ins>Assistant Research Scientist - Mar 2025 - Present</ins>
 - Supporting the development of the Precision Medicine department to advance treatment strategies and improve patient outcomes.
 - Collaborating and consulting with various institutions and specialties to foster research initiatives that directly impact patient care.
 - Integrating and optimizing software platforms to streamline data management, enabling more efficient and accurate clinical decision-making.
 - Providing statistical expertise to ensure high-quality data analysis, supporting evidence-based approaches to patient treatment and care.
+- 
 <ins>Clinical Research Intern - Aug 2024 - Mar 2025</ins>
 - Collected, cleaned, and analyzed clinical research data on Prader-Willi syndrome using SPSS, Excel, and REDCap.
 - Led data management and statistical analysis for a study on swallow studies in Prader-Willi syndrome patients, contributing to a forthcoming publication.
@@ -19,6 +21,7 @@ Aug 2023 - May 2025 GPA: 3.8
 - Provided statistical guidance and interpretation to support data-driven decision-making in clinical research.
 
 **Grapevine-Colleyville ISD** 
+
 <ins>Science Educator - Jan 2023 - July 2023</ins>
 - Taught 150+ students how to collect, analyze, interpret, and present laboratory data.
 - Collaborated with co-teachers to meet student experimental and lesson objectives.
@@ -30,6 +33,7 @@ Aug 2023 - May 2025 GPA: 3.8
 - Utilized Google Suite to collaborate with other teachers, students, and administration officials.
 
 **Uplift Education**
+
 <ins>Science Educator - Aug 2020 - Aug 2022</ins>
 - Conducted routine performance analysis to drive academic decisions.
 - Managed and updated student databases on a weekly basis; utilized data analysis techniques to determine classroom learning needs, identify at-risk individuals, track knowledge retention, and improve course content. 
