@@ -1,12 +1,8 @@
 # Data Scientist and Bioinformatician
 
 ### Education
-**- Bioinformatics and Computational Biology, MS**
-  Data Science Certificate
-    Aug 2023 - May 2025 GPA: 3.8
-**- Biochemistry, BS**
-  Minor in Spanish 
-    Aug 2015 - May 2019 GPA: 3.8
+- Bioinformatics and Computational Biology, MS | Data Science Certificate | Aug 2023 - May 2025 | GPA: 3.8
+- Biochemistry, BS | Minor in Spanish | Aug 2015 - May 2019 | GPA: 3.8
 
 ### Work Experience
 **Cook Children's Health Care System**
