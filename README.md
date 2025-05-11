@@ -1,7 +1,7 @@
 # Data Scientist and Bioinformatician
-**Programming Languages:** Python, SQL, R
-**Statistical Software:** SPSS, Excel, Matlab
-**Accredidations/Certificates:** Epic Cosmos Data Scientist, Epic Cosmos Data Architect 
+**- Programming Languages:** Python, SQL, R
+**- Statistical Software:** SPSS, Excel, Matlab
+**- Accredidations/Certificates:** Epic Cosmos Data Scientist, Epic Cosmos Data Architect 
 
 ### Education
 - Bioinformatics and Computational Biology, MS | Data Science Certificate | GPA: 3.8
