@@ -1,5 +1,5 @@
 title: Andrea Fagerman
 logo: headshot.png
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme 
