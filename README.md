@@ -48,7 +48,7 @@
 
 ### Projects
 - add in later
-- ![Cook Children's Endo Study](CookChildrensPoster.jpeg)
+![Cook Children's Endo Study](CookChildrensPoster.jpeg)
 
 ### A little about me... 
 When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
