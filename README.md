@@ -2,7 +2,9 @@
 
 ### Education
 **Bioinformatics and Computational Biology, MS**
+
 Data Science Certificate
+
 Aug 2023 - May 2025 GPA: 3.8
 
 ### Work Experience
