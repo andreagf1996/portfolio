@@ -4,10 +4,10 @@
 - Accredidations/Certificates: Epic Cosmos Data Scientist, Epic Cosmos Data Architect 
 
 ### Education
-- Bioinformatics and Computational Biology, MS | Data Science Certificate | GPA: 3.8
-  Aug 2023 - May 2025
-- Biochemistry, BS | Minor in Spanish | GPA: 3.8
-  Aug 2015 - May 2019 
+- Bioinformatics and Computational Biology, MS | Data Science Certificate
+  GPA: 3.8 | Aug 2023 - May 2025
+- Biochemistry, BS | Minor in Spanish
+  GPA: 3.8 | Aug 2015 - May 2019 
 
 ### Work Experience
 **Cook Children's Health Care System**
