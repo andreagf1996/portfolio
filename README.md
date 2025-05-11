@@ -1,11 +1,12 @@
 # Data Scientist and Bioinformatician
 
 ### Education
-**Bioinformatics and Computational Biology, MS**
-
-Data Science Certificate
-
-Aug 2023 - May 2025 GPA: 3.8
+**- Bioinformatics and Computational Biology, MS**
+  Data Science Certificate
+    Aug 2023 - May 2025 GPA: 3.8
+**- Biochemistry, BS**
+  Minor in Spanish 
+    Aug 2015 - May 2019 GPA: 3.8
 
 ### Work Experience
 **Cook Children's Health Care System**
@@ -45,18 +46,9 @@ Aug 2023 - May 2025 GPA: 3.8
 - Managed 150+ students with varied needs and special accommodations.
 
 ### Projects
-- tbd
-<!--
-**andreagf1996/andreagf1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- add in later
 
-Here are some ideas to get you started:
+### A little about me...###
+When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+También me encanta practicar mi español y ver muchos cortometrajes en LingoPie. También me encanta encontrar hispanohablantes con quienes practicar español. (Es muy divertido!)
