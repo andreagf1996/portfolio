@@ -60,7 +60,8 @@
 - Chest X-Ray Pneumonia Classification Project
 
   In this project, seen on my github profile, I build a neural network in order to identify if an x-ray indicated a patient had pneumonia or were normal.
-  
+
+<a href="https://github.com/andreagf1996/ClassifyingChestXRays" target="_blank" rel="nofollow noopener noreferrer">![Chest X-Ray Classification Project](person8_bacteria_37.jpeg)</a>
 ### A little about me... 
 When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
 
