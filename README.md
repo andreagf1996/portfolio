@@ -19,6 +19,7 @@
 ![Cook Children's Endo Study](CookChildrensPoster.jpg)
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.64121" target="_blank" rel="nofollow noopener noreferrer">- Dysphagia and Silent Aspiration in PWS Infants</a>
+
   In this study, I retroactively examined pediatic PWS patients who recieved at least one Videofluoroscopic Swallow Study (VFSS). Through this study, it was found that dysphagia was present in 100% of 1st VFSS and aspiration was noted in 38.9% of 1st VFSS. In all cases of aspiration in initial or subsequent VFSS, 100% were silent and presented no clinical signs.
 
 - Chest X-Ray Pneumonia Classification Project
