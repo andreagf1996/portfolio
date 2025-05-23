@@ -5,9 +5,11 @@
 
 ### Education
 - Bioinformatics and Computational Biology, MS   May 2025
+
   University of Texas at Dallas                  GPA: 3.9
     - Data Science Certificate
 - Biochemistry, BS                               May 2019
+
   University of North Texas                      GPA: 3.8
     - Minor in Spanish
     
