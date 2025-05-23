@@ -51,12 +51,16 @@
 ### Projects
 - MultiSite Prader-Willi Syndrome (PWS) Sleep Study October 2024-Present
 
-  I am currently working with Dr Roy at Cook Children's Medical Center to examine the need for a baseline polysomnogram (PSG) prior to Growth Hormone (GH) initiation. We teamed up with three other hospitals (Children's Mercy Kansas City, Seattle Children's Hospital, and University of Utah Health) to collect all the data on PWS patients who had a baseline PSG younger than 2 years of age and prior to GH initiation from birth to 3 years of age. I cleaned, processed, and analyzed the various groups using Chi-Squared Test of Independence, Mann Whitney U Test, ____. 
+  I am currently working with Dr Roy at Cook Children's Medical Center to examine the need for a baseline polysomnogram (PSG) prior to Growth Hormone (GH) initiation. We teamed up with three other hospitals (Children's Mercy Kansas City, Seattle Children's Hospital, and University of Utah Health) to collect all the data on PWS patients who had a baseline PSG younger than 2 years of age and prior to GH initiation from birth to 3 years of age. I cleaned, processed, and analyzed the various groups using Chi-Squared Test of Independence, Mann Whitney U Test, Kruskal-Wallis Test, and Wilcoxon Signed Ranked Test. 
   
   Tools used include: Epic, IBM SPSS, Microsoft Suite (Office, Excel, Project, etc), and REDCap
   
 ![Cook Children's Endo Study](CookChildrensPoster.jpg)
 
+- Chest X-Ray Pneumonia Classification Project
+
+  In this project, seen on my github profile, I build a neural network in order to identify if an x-ray indicated a patient had pneumonia or were normal.
+  
 ### A little about me... 
 When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
 
