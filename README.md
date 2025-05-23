@@ -18,11 +18,11 @@
   
 ![Cook Children's Endo Study](CookChildrensPoster.jpg)
 
-<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.64121" target="_blank" rel="nofollow noopener noreferrer">- Dysphagia and Silent Aspiration in PWS Infants</a>
+-<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.64121" target="_blank" rel="nofollow noopener noreferrer"> Dysphagia and Silent Aspiration in PWS Infants</a>
 
   In this study, I retroactively examined pediatic PWS patients who recieved at least one Videofluoroscopic Swallow Study (VFSS). Through this study, it was found that dysphagia was present in 100% of 1st VFSS and aspiration was noted in 38.9% of 1st VFSS. In all cases of aspiration in initial or subsequent VFSS, 100% were silent and presented no clinical signs.
 
-<a href="https://github.com/andreagf1996/ClassifyingChestXRays" target="_blank" rel="nofollow noopener noreferrer">- Chest X-Ray Pneumonia Classification Project</a>
+-<a href="https://github.com/andreagf1996/ClassifyingChestXRays" target="_blank" rel="nofollow noopener noreferrer"> Chest X-Ray Pneumonia Classification Project</a>
 
   In this project, seen on my github profile, I build a neural network in order to identify if an x-ray indicated a patient had pneumonia or were normal.
 
