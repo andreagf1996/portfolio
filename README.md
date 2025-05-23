@@ -1,30 +1,30 @@
 # Data Scientist and Bioinformatician
 - Programming Languages: Python, SQL, R
 - Statistical Software: SPSS, Excel, Matlab
-- Accredidations/Certificates: Epic Cosmos for Data Scientist, Epic Cosmos Data Model for Data Architects
+- Accreditations/Certificates: Epic Cosmos for Data Scientist, Epic Cosmos Data Model for Data Architects
 
 ### Education
-- Bioinformatics and Computational Biology, MS; GPA: 3.9
-  - Data Science Certificate
-    - Aug 2023 - May 2025
-- Biochemistry, BS; GPA: 3.8
-  - Minor in Spanish
-    - Aug 2015 - May 2019
+- Bioinformatics and Computational Biology, MS   May 2025
+  University of Texas at Dallas                  GPA: 3.9
+    - Data Science Certificate
+- Biochemistry, BS                               May 2019
+  University of North Texas                      GPA: 3.8
+    - Minor in Spanish
     
 ### Projects
 - MultiSite Prader-Willi Syndrome (PWS) Sleep Study October 2024-Present
 
-  I am currently working with Dr Roy at Cook Children's Medical Center to examine the need for a baseline polysomnogram (PSG) prior to Growth Hormone (GH) initiation. We teamed up with three other hospitals (Children's Mercy Kansas City, Seattle Children's Hospital, and University of Utah Health) to collect all the data on PWS patients who had a baseline PSG younger than 2 years of age and prior to GH initiation from birth to 3 years of age. I cleaned, processed, and analyzed the various groups using Chi-Squared Test of Independence, Mann Whitney U Test, Kruskal-Wallis Test, and Wilcoxon Signed Ranked Test. This data was presented in a poster, as seen below, May 2025 at the Pediatric Endocrine Society Conference and is awaiting publication.
+  I am currently working with Dr Roy at Cook Children's Medical Center to examine the need for a baseline polysomnogram (PSG) prior to Growth Hormone (GH) initiation. We teamed up with three other hospitals (Children's Mercy Kansas City, Seattle Children's Hospital, and University of Utah Health) to collect all the data on PWS patients who had a baseline PSG younger than 2 years of age and prior to GH initiation from birth to 3 years of age. I cleaned, processed, and analyzed the various groups using Chi-Squared Test of Independence, Mann Whitney U Test, Kruskal-Wallis Test, and Wilcoxon Signed Ranked Test. This data was presented in a poster, as seen below, in May 2025 at the Pediatric Endocrine Society Conference and is awaiting publication.
   
 ![Cook Children's Endo Study](CookChildrensPoster.jpg)
 
 -<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.64121" target="_blank" rel="nofollow noopener noreferrer"> Dysphagia and Silent Aspiration in PWS Infants</a>
 
-  In this study, I retroactively examined pediatic PWS patients who recieved at least one Videofluoroscopic Swallow Study (VFSS). Through this study, it was found that dysphagia was present in 100% of 1st VFSS and aspiration was noted in 38.9% of 1st VFSS. In all cases of aspiration in initial or subsequent VFSS, 100% were silent and presented no clinical signs.
+  In this study, I retroactively examined pediatric PWS patients who received at least one Videofluoroscopic Swallow Study (VFSS). Through this study, it was found that dysphagia was present in 100% of 1st VFSS and aspiration was noted in 38.9% of 1st VFSS. In all cases of aspiration in initial or subsequent VFSS, 100% were silent and presented no clinical signs.
 
 -<a href="https://github.com/andreagf1996/ClassifyingChestXRays" target="_blank" rel="nofollow noopener noreferrer"> Chest X-Ray Pneumonia Classification Project</a>
 
-  In this project, seen on my github profile, I build a neural network in order to identify if an x-ray indicated a patient had pneumonia or were normal.
+  In this project, seen on my Github profile, I built a neural network in order to identify if an x-ray indicated a patient had pneumonia or was normal.
 
 ![Chest X-Ray Classification Project](person8_bacteria_37.jpeg)
 
@@ -67,7 +67,7 @@
 
 
 ### A little about me... 
-When I'm not working, you can find me with my pups on a hike, learning some new skill on Udemy or Coursera, painting, or working out at the gym. 
+When I'm not working, you can find me with my pups on a hike, learning some new skills on Udemy or Coursera, painting, or working out at the gym. 
 
 Me gusta practicar mi español y ver muchos cortometrajes en LingoPie. También me encanta encontrar hispanohablantes con quienes practicar español. (Es muy divertido!)
 
