@@ -1,6 +1,6 @@
 # Data Scientist and Bioinformatician
 - Programming Languages: Python, SQL, R
-- Statistical Software: SPSS, Excel, Matlab
+- Statistical Software/Other: SPSS, Excel, Matlab, DataBricks
 - Accreditations/Certificates: Epic Cosmos for Data Scientist, Epic Cosmos Data Model for Data Architects
 
 ### Education
