@@ -30,6 +30,12 @@
 
 ![Chest X-Ray Classification Project](person8_bacteria_37.jpeg)
 
+-<a href="https://github.com/andreagf1996/portfolio/blob/main/stats%20prok.pptx" target="_blank" rel="nofollow noopener noreferrer">Gestational Diabetes Prediction Model</a>
+
+  In this project, seen on my Github profile, I used Random Forest to predict whether women would have gsetational diabetes or not. I found that despite numerous women missing their blood glucose levels in the data, which would otherwise be used to determine diabetes status, when replacing missing blood glucose with the mean for the overall population and when other factors were taken into account, this model was highly accurate in predicting the outcome as seen by the F1 and ROC AUC. 
+  
+![Diabetes Prediction Project](statsprojimg.jpg)
+
 ### Work Experience
 **Cook Children's Health Care System**
 
